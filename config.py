@@ -44,7 +44,7 @@ def _resolve_secret(key: str, default: Optional[str] = None) -> Optional[str]:
 class GeminiConfig:
     api_key:              Optional[str] = field(default_factory=lambda: _resolve_secret("GEMINI_API_KEY"))
     # gemini-2.5-flash for both extraction and verification (Step 2 decision)
-    model:                str           = "gemini-2.5-flash"
+    model:                str           = "gemini-2.5-flash-lite"
     temperature_extract:  float         = 0.1   # low temp → deterministic JSON
     temperature_verify:   float         = 0.2   # slight headroom for reasoning
     max_output_tokens:    int           = 4096
