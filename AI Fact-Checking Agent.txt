@@ -1,0 +1,5 @@
+AI Fact-Checking Agent
+
+Deployed Application: https://ai-fact-checking-agent-nhzsxaanwsvcadeo4larl8.streamlit.app/
+
+GitHub Repository: https://github.com/suvanshmalik/AI-Fact-Checking-Agent
