@@ -1,0 +1,8 @@
+streamlit
+pandas
+pydantic
+python-dotenv
+google-generativeai
+tavily-python
+pymupdf
+reportlab
