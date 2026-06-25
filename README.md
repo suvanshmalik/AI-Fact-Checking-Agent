@@ -179,5 +179,3 @@ If I were to continue developing this project, I would explore:
 ## Author
 
 **Suvansh Malik**
-
-Built as part of a Product Management Trainee assessment.
